@@ -2,12 +2,12 @@
 
 ## :white_check_mark: Keywords :key: Interfaces, Async, Delegados, Genéricos, POO, Herencia, Polimorfismo, Encapsulamiento, Clases y Propiedades, Excepciones.
 
-### Proyectos del dominio .NET
+### Proyectos del dominio .NET :computer:
 
 En 2º año de la Facultad de Informática de la UNLP se cursa la materia "Seminario de lenguajes", y opté por hacer el de C#.
 La materia recorre los conceptos básicos del lenguaje, en el entorno de la multiplataforma de Microsoft: **NetCore**
 
-Algunos de los temas, enseñados a través de proyectos de consola en el seminario, son:
+**Algunos de los temas, enseñados a través de proyectos de consola en el seminario, son:**
 - Fundamentos del lenguaje, tipos y estructuras de datos, operadores, estructuras de control.
 - Sistema (unificado) de tipos, boxing/unboxing, tipos valor y referencia. 
 - Arreglos, arreglos de arreglos, matrices, strings y StringBuilder, formato de cadenas interpoladas, enumerativos.
