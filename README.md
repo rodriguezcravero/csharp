@@ -1,6 +1,6 @@
 # C#
 
-##Keywords: Interfaces, Async, Delegados, Genéricos, POO, Herencia, Polimorfismo, Encapsulamiento, Clases y Propiedades, Excepciones.
+## Keywords: Interfaces, Async, Delegados, Genéricos, POO, Herencia, Polimorfismo, Encapsulamiento, Clases y Propiedades, Excepciones.
 
 ### Proyectos del dominio .NET
 
