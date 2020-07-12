@@ -1,0 +1,13 @@
+D:\Facultad\.net\.coloquio\P7-E3\bin\Debug\netcoreapp3.1\P7-E3.exe
+D:\Facultad\.net\.coloquio\P7-E3\bin\Debug\netcoreapp3.1\P7-E3.deps.json
+D:\Facultad\.net\.coloquio\P7-E3\bin\Debug\netcoreapp3.1\P7-E3.runtimeconfig.json
+D:\Facultad\.net\.coloquio\P7-E3\bin\Debug\netcoreapp3.1\P7-E3.runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P7-E3\bin\Debug\netcoreapp3.1\P7-E3.dll
+D:\Facultad\.net\.coloquio\P7-E3\bin\Debug\netcoreapp3.1\P7-E3.pdb
+D:\Facultad\.net\.coloquio\P7-E3\obj\Debug\netcoreapp3.1\P7-E3.csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P7-E3\obj\Debug\netcoreapp3.1\P7-E3.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P7-E3\obj\Debug\netcoreapp3.1\P7-E3.AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P7-E3\obj\Debug\netcoreapp3.1\P7-E3.AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P7-E3\obj\Debug\netcoreapp3.1\P7-E3.dll
+D:\Facultad\.net\.coloquio\P7-E3\obj\Debug\netcoreapp3.1\P7-E3.pdb
+D:\Facultad\.net\.coloquio\P7-E3\obj\Debug\netcoreapp3.1\P7-E3.genruntimeconfig.cache

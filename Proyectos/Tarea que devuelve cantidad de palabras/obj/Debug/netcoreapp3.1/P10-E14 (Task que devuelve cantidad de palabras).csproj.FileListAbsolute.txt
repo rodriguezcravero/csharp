@@ -1,0 +1,13 @@
+D:\Facultad\.net\.coloquio\P10-E14 (Task que devuelve cantidad de palabras)\bin\Debug\netcoreapp3.1\P10-E14 (Task que devuelve cantidad de palabras).exe
+D:\Facultad\.net\.coloquio\P10-E14 (Task que devuelve cantidad de palabras)\bin\Debug\netcoreapp3.1\P10-E14 (Task que devuelve cantidad de palabras).deps.json
+D:\Facultad\.net\.coloquio\P10-E14 (Task que devuelve cantidad de palabras)\bin\Debug\netcoreapp3.1\P10-E14 (Task que devuelve cantidad de palabras).runtimeconfig.json
+D:\Facultad\.net\.coloquio\P10-E14 (Task que devuelve cantidad de palabras)\bin\Debug\netcoreapp3.1\P10-E14 (Task que devuelve cantidad de palabras).runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P10-E14 (Task que devuelve cantidad de palabras)\bin\Debug\netcoreapp3.1\P10-E14 (Task que devuelve cantidad de palabras).dll
+D:\Facultad\.net\.coloquio\P10-E14 (Task que devuelve cantidad de palabras)\bin\Debug\netcoreapp3.1\P10-E14 (Task que devuelve cantidad de palabras).pdb
+D:\Facultad\.net\.coloquio\P10-E14 (Task que devuelve cantidad de palabras)\obj\Debug\netcoreapp3.1\P10-E14 (Task que devuelve cantidad de palabras).csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P10-E14 (Task que devuelve cantidad de palabras)\obj\Debug\netcoreapp3.1\P10-E14 (Task que devuelve cantidad de palabras).csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P10-E14 (Task que devuelve cantidad de palabras)\obj\Debug\netcoreapp3.1\P10-E14 (Task que devuelve cantidad de palabras).AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P10-E14 (Task que devuelve cantidad de palabras)\obj\Debug\netcoreapp3.1\P10-E14 (Task que devuelve cantidad de palabras).AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P10-E14 (Task que devuelve cantidad de palabras)\obj\Debug\netcoreapp3.1\P10-E14 (Task que devuelve cantidad de palabras).dll
+D:\Facultad\.net\.coloquio\P10-E14 (Task que devuelve cantidad de palabras)\obj\Debug\netcoreapp3.1\P10-E14 (Task que devuelve cantidad de palabras).pdb
+D:\Facultad\.net\.coloquio\P10-E14 (Task que devuelve cantidad de palabras)\obj\Debug\netcoreapp3.1\P10-E14 (Task que devuelve cantidad de palabras).genruntimeconfig.cache

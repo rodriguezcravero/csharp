@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P10-E8 (Task Sumatoria)/1.0.0": {
+        "runtime": {
+          "P10-E8 (Task Sumatoria).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P10-E8 (Task Sumatoria)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

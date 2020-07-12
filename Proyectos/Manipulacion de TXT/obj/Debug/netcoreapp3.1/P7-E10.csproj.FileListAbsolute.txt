@@ -1,0 +1,13 @@
+D:\Facultad\.net\.coloquio\P7-E10 (Autos.txt)\bin\Debug\netcoreapp3.1\P7-E10.exe
+D:\Facultad\.net\.coloquio\P7-E10 (Autos.txt)\bin\Debug\netcoreapp3.1\P7-E10.deps.json
+D:\Facultad\.net\.coloquio\P7-E10 (Autos.txt)\bin\Debug\netcoreapp3.1\P7-E10.runtimeconfig.json
+D:\Facultad\.net\.coloquio\P7-E10 (Autos.txt)\bin\Debug\netcoreapp3.1\P7-E10.runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P7-E10 (Autos.txt)\bin\Debug\netcoreapp3.1\P7-E10.dll
+D:\Facultad\.net\.coloquio\P7-E10 (Autos.txt)\bin\Debug\netcoreapp3.1\P7-E10.pdb
+D:\Facultad\.net\.coloquio\P7-E10 (Autos.txt)\obj\Debug\netcoreapp3.1\P7-E10.csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P7-E10 (Autos.txt)\obj\Debug\netcoreapp3.1\P7-E10.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P7-E10 (Autos.txt)\obj\Debug\netcoreapp3.1\P7-E10.AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P7-E10 (Autos.txt)\obj\Debug\netcoreapp3.1\P7-E10.AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P7-E10 (Autos.txt)\obj\Debug\netcoreapp3.1\P7-E10.dll
+D:\Facultad\.net\.coloquio\P7-E10 (Autos.txt)\obj\Debug\netcoreapp3.1\P7-E10.pdb
+D:\Facultad\.net\.coloquio\P7-E10 (Autos.txt)\obj\Debug\netcoreapp3.1\P7-E10.genruntimeconfig.cache

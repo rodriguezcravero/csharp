@@ -1,0 +1,26 @@
+D:\Facultad\.net\.coloquio\P7-E6\bin\Debug\netcoreapp3.1\P7-E6.exe
+D:\Facultad\.net\.coloquio\P7-E6\bin\Debug\netcoreapp3.1\P7-E6.deps.json
+D:\Facultad\.net\.coloquio\P7-E6\bin\Debug\netcoreapp3.1\P7-E6.runtimeconfig.json
+D:\Facultad\.net\.coloquio\P7-E6\bin\Debug\netcoreapp3.1\P7-E6.runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P7-E6\bin\Debug\netcoreapp3.1\P7-E6.dll
+D:\Facultad\.net\.coloquio\P7-E6\bin\Debug\netcoreapp3.1\P7-E6.pdb
+D:\Facultad\.net\.coloquio\P7-E6\obj\Debug\netcoreapp3.1\P7-E6.csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P7-E6\obj\Debug\netcoreapp3.1\P7-E6.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P7-E6\obj\Debug\netcoreapp3.1\P7-E6.AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P7-E6\obj\Debug\netcoreapp3.1\P7-E6.AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P7-E6\obj\Debug\netcoreapp3.1\P7-E6.dll
+D:\Facultad\.net\.coloquio\P7-E6\obj\Debug\netcoreapp3.1\P7-E6.pdb
+D:\Facultad\.net\.coloquio\P7-E6\obj\Debug\netcoreapp3.1\P7-E6.genruntimeconfig.cache
+D:\Facultad\.net\.coloquio\P7-E6 (ComparadorLongitudNombre)\bin\Debug\netcoreapp3.1\P7-E6.exe
+D:\Facultad\.net\.coloquio\P7-E6 (ComparadorLongitudNombre)\bin\Debug\netcoreapp3.1\P7-E6.deps.json
+D:\Facultad\.net\.coloquio\P7-E6 (ComparadorLongitudNombre)\bin\Debug\netcoreapp3.1\P7-E6.runtimeconfig.json
+D:\Facultad\.net\.coloquio\P7-E6 (ComparadorLongitudNombre)\bin\Debug\netcoreapp3.1\P7-E6.runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P7-E6 (ComparadorLongitudNombre)\bin\Debug\netcoreapp3.1\P7-E6.dll
+D:\Facultad\.net\.coloquio\P7-E6 (ComparadorLongitudNombre)\bin\Debug\netcoreapp3.1\P7-E6.pdb
+D:\Facultad\.net\.coloquio\P7-E6 (ComparadorLongitudNombre)\obj\Debug\netcoreapp3.1\P7-E6.csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P7-E6 (ComparadorLongitudNombre)\obj\Debug\netcoreapp3.1\P7-E6.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P7-E6 (ComparadorLongitudNombre)\obj\Debug\netcoreapp3.1\P7-E6.AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P7-E6 (ComparadorLongitudNombre)\obj\Debug\netcoreapp3.1\P7-E6.AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P7-E6 (ComparadorLongitudNombre)\obj\Debug\netcoreapp3.1\P7-E6.dll
+D:\Facultad\.net\.coloquio\P7-E6 (ComparadorLongitudNombre)\obj\Debug\netcoreapp3.1\P7-E6.pdb
+D:\Facultad\.net\.coloquio\P7-E6 (ComparadorLongitudNombre)\obj\Debug\netcoreapp3.1\P7-E6.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Facultad\.net\.coloquio\P10-E15 (Task que devuelve int[] palabras)\bin\Debug\netcoreapp3.1\P10-E15 (Task que devuelve int[] palabras).exe
+D:\Facultad\.net\.coloquio\P10-E15 (Task que devuelve int[] palabras)\bin\Debug\netcoreapp3.1\P10-E15 (Task que devuelve int[] palabras).deps.json
+D:\Facultad\.net\.coloquio\P10-E15 (Task que devuelve int[] palabras)\bin\Debug\netcoreapp3.1\P10-E15 (Task que devuelve int[] palabras).runtimeconfig.json
+D:\Facultad\.net\.coloquio\P10-E15 (Task que devuelve int[] palabras)\bin\Debug\netcoreapp3.1\P10-E15 (Task que devuelve int[] palabras).runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P10-E15 (Task que devuelve int[] palabras)\bin\Debug\netcoreapp3.1\P10-E15 (Task que devuelve int[] palabras).dll
+D:\Facultad\.net\.coloquio\P10-E15 (Task que devuelve int[] palabras)\bin\Debug\netcoreapp3.1\P10-E15 (Task que devuelve int[] palabras).pdb
+D:\Facultad\.net\.coloquio\P10-E15 (Task que devuelve int[] palabras)\obj\Debug\netcoreapp3.1\P10-E15 (Task que devuelve int[] palabras).csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P10-E15 (Task que devuelve int[] palabras)\obj\Debug\netcoreapp3.1\P10-E15 (Task que devuelve int[] palabras).csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P10-E15 (Task que devuelve int[] palabras)\obj\Debug\netcoreapp3.1\P10-E15 (Task que devuelve int[] palabras).AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P10-E15 (Task que devuelve int[] palabras)\obj\Debug\netcoreapp3.1\P10-E15 (Task que devuelve int[] palabras).AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P10-E15 (Task que devuelve int[] palabras)\obj\Debug\netcoreapp3.1\P10-E15 (Task que devuelve int[] palabras).dll
+D:\Facultad\.net\.coloquio\P10-E15 (Task que devuelve int[] palabras)\obj\Debug\netcoreapp3.1\P10-E15 (Task que devuelve int[] palabras).pdb
+D:\Facultad\.net\.coloquio\P10-E15 (Task que devuelve int[] palabras)\obj\Debug\netcoreapp3.1\P10-E15 (Task que devuelve int[] palabras).genruntimeconfig.cache

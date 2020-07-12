@@ -1,0 +1,13 @@
+D:\Facultad\.net\.coloquio\P8-E5(Contador de lineas con Event)\bin\Debug\netcoreapp3.1\P8-E5(Contador de lineas con Event).exe
+D:\Facultad\.net\.coloquio\P8-E5(Contador de lineas con Event)\bin\Debug\netcoreapp3.1\P8-E5(Contador de lineas con Event).deps.json
+D:\Facultad\.net\.coloquio\P8-E5(Contador de lineas con Event)\bin\Debug\netcoreapp3.1\P8-E5(Contador de lineas con Event).runtimeconfig.json
+D:\Facultad\.net\.coloquio\P8-E5(Contador de lineas con Event)\bin\Debug\netcoreapp3.1\P8-E5(Contador de lineas con Event).runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P8-E5(Contador de lineas con Event)\bin\Debug\netcoreapp3.1\P8-E5(Contador de lineas con Event).dll
+D:\Facultad\.net\.coloquio\P8-E5(Contador de lineas con Event)\bin\Debug\netcoreapp3.1\P8-E5(Contador de lineas con Event).pdb
+D:\Facultad\.net\.coloquio\P8-E5(Contador de lineas con Event)\obj\Debug\netcoreapp3.1\P8-E5(Contador de lineas con Event).csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P8-E5(Contador de lineas con Event)\obj\Debug\netcoreapp3.1\P8-E5(Contador de lineas con Event).csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P8-E5(Contador de lineas con Event)\obj\Debug\netcoreapp3.1\P8-E5(Contador de lineas con Event).AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P8-E5(Contador de lineas con Event)\obj\Debug\netcoreapp3.1\P8-E5(Contador de lineas con Event).AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P8-E5(Contador de lineas con Event)\obj\Debug\netcoreapp3.1\P8-E5(Contador de lineas con Event).dll
+D:\Facultad\.net\.coloquio\P8-E5(Contador de lineas con Event)\obj\Debug\netcoreapp3.1\P8-E5(Contador de lineas con Event).pdb
+D:\Facultad\.net\.coloquio\P8-E5(Contador de lineas con Event)\obj\Debug\netcoreapp3.1\P8-E5(Contador de lineas con Event).genruntimeconfig.cache

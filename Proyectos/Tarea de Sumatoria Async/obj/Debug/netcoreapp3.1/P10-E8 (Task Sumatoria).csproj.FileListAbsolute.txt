@@ -1,0 +1,13 @@
+D:\Facultad\.net\.coloquio\P10-E8 (Task Sumatoria)\obj\Debug\netcoreapp3.1\P10-E8 (Task Sumatoria).csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P10-E8 (Task Sumatoria)\obj\Debug\netcoreapp3.1\P10-E8 (Task Sumatoria).csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P10-E8 (Task Sumatoria)\obj\Debug\netcoreapp3.1\P10-E8 (Task Sumatoria).AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P10-E8 (Task Sumatoria)\obj\Debug\netcoreapp3.1\P10-E8 (Task Sumatoria).AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P10-E8 (Task Sumatoria)\bin\Debug\netcoreapp3.1\P10-E8 (Task Sumatoria).exe
+D:\Facultad\.net\.coloquio\P10-E8 (Task Sumatoria)\bin\Debug\netcoreapp3.1\P10-E8 (Task Sumatoria).deps.json
+D:\Facultad\.net\.coloquio\P10-E8 (Task Sumatoria)\bin\Debug\netcoreapp3.1\P10-E8 (Task Sumatoria).runtimeconfig.json
+D:\Facultad\.net\.coloquio\P10-E8 (Task Sumatoria)\bin\Debug\netcoreapp3.1\P10-E8 (Task Sumatoria).runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P10-E8 (Task Sumatoria)\bin\Debug\netcoreapp3.1\P10-E8 (Task Sumatoria).dll
+D:\Facultad\.net\.coloquio\P10-E8 (Task Sumatoria)\bin\Debug\netcoreapp3.1\P10-E8 (Task Sumatoria).pdb
+D:\Facultad\.net\.coloquio\P10-E8 (Task Sumatoria)\obj\Debug\netcoreapp3.1\P10-E8 (Task Sumatoria).dll
+D:\Facultad\.net\.coloquio\P10-E8 (Task Sumatoria)\obj\Debug\netcoreapp3.1\P10-E8 (Task Sumatoria).pdb
+D:\Facultad\.net\.coloquio\P10-E8 (Task Sumatoria)\obj\Debug\netcoreapp3.1\P10-E8 (Task Sumatoria).genruntimeconfig.cache

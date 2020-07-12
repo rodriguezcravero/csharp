@@ -1,0 +1,26 @@
+D:\Facultad\.net\.coloquio\P3-E12\bin\Debug\netcoreapp3.1\P3-E12.exe
+D:\Facultad\.net\.coloquio\P3-E12\bin\Debug\netcoreapp3.1\P3-E12.deps.json
+D:\Facultad\.net\.coloquio\P3-E12\bin\Debug\netcoreapp3.1\P3-E12.runtimeconfig.json
+D:\Facultad\.net\.coloquio\P3-E12\bin\Debug\netcoreapp3.1\P3-E12.runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P3-E12\bin\Debug\netcoreapp3.1\P3-E12.dll
+D:\Facultad\.net\.coloquio\P3-E12\bin\Debug\netcoreapp3.1\P3-E12.pdb
+D:\Facultad\.net\.coloquio\P3-E12\obj\Debug\netcoreapp3.1\P3-E12.csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P3-E12\obj\Debug\netcoreapp3.1\P3-E12.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P3-E12\obj\Debug\netcoreapp3.1\P3-E12.AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P3-E12\obj\Debug\netcoreapp3.1\P3-E12.AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P3-E12\obj\Debug\netcoreapp3.1\P3-E12.dll
+D:\Facultad\.net\.coloquio\P3-E12\obj\Debug\netcoreapp3.1\P3-E12.pdb
+D:\Facultad\.net\.coloquio\P3-E12\obj\Debug\netcoreapp3.1\P3-E12.genruntimeconfig.cache
+D:\Facultad\.net\.coloquio\P3-E12 (Queue)\bin\Debug\netcoreapp3.1\P3-E12.exe
+D:\Facultad\.net\.coloquio\P3-E12 (Queue)\bin\Debug\netcoreapp3.1\P3-E12.deps.json
+D:\Facultad\.net\.coloquio\P3-E12 (Queue)\bin\Debug\netcoreapp3.1\P3-E12.runtimeconfig.json
+D:\Facultad\.net\.coloquio\P3-E12 (Queue)\bin\Debug\netcoreapp3.1\P3-E12.runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P3-E12 (Queue)\bin\Debug\netcoreapp3.1\P3-E12.dll
+D:\Facultad\.net\.coloquio\P3-E12 (Queue)\bin\Debug\netcoreapp3.1\P3-E12.pdb
+D:\Facultad\.net\.coloquio\P3-E12 (Queue)\obj\Debug\netcoreapp3.1\P3-E12.csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P3-E12 (Queue)\obj\Debug\netcoreapp3.1\P3-E12.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P3-E12 (Queue)\obj\Debug\netcoreapp3.1\P3-E12.AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P3-E12 (Queue)\obj\Debug\netcoreapp3.1\P3-E12.AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P3-E12 (Queue)\obj\Debug\netcoreapp3.1\P3-E12.dll
+D:\Facultad\.net\.coloquio\P3-E12 (Queue)\obj\Debug\netcoreapp3.1\P3-E12.pdb
+D:\Facultad\.net\.coloquio\P3-E12 (Queue)\obj\Debug\netcoreapp3.1\P3-E12.genruntimeconfig.cache

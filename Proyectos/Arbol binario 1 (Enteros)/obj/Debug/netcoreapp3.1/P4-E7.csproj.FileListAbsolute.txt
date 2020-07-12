@@ -1,0 +1,26 @@
+D:\Facultad\.net\.coloquio\P4-E7\bin\Debug\netcoreapp3.1\P4-E7.exe
+D:\Facultad\.net\.coloquio\P4-E7\bin\Debug\netcoreapp3.1\P4-E7.deps.json
+D:\Facultad\.net\.coloquio\P4-E7\bin\Debug\netcoreapp3.1\P4-E7.runtimeconfig.json
+D:\Facultad\.net\.coloquio\P4-E7\bin\Debug\netcoreapp3.1\P4-E7.runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P4-E7\bin\Debug\netcoreapp3.1\P4-E7.dll
+D:\Facultad\.net\.coloquio\P4-E7\bin\Debug\netcoreapp3.1\P4-E7.pdb
+D:\Facultad\.net\.coloquio\P4-E7\obj\Debug\netcoreapp3.1\P4-E7.csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P4-E7\obj\Debug\netcoreapp3.1\P4-E7.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P4-E7\obj\Debug\netcoreapp3.1\P4-E7.AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P4-E7\obj\Debug\netcoreapp3.1\P4-E7.AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P4-E7\obj\Debug\netcoreapp3.1\P4-E7.dll
+D:\Facultad\.net\.coloquio\P4-E7\obj\Debug\netcoreapp3.1\P4-E7.pdb
+D:\Facultad\.net\.coloquio\P4-E7\obj\Debug\netcoreapp3.1\P4-E7.genruntimeconfig.cache
+D:\Facultad\.net\.coloquio\P4-E7 (Nodos)\bin\Debug\netcoreapp3.1\P4-E7.exe
+D:\Facultad\.net\.coloquio\P4-E7 (Nodos)\bin\Debug\netcoreapp3.1\P4-E7.deps.json
+D:\Facultad\.net\.coloquio\P4-E7 (Nodos)\bin\Debug\netcoreapp3.1\P4-E7.runtimeconfig.json
+D:\Facultad\.net\.coloquio\P4-E7 (Nodos)\bin\Debug\netcoreapp3.1\P4-E7.runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P4-E7 (Nodos)\bin\Debug\netcoreapp3.1\P4-E7.dll
+D:\Facultad\.net\.coloquio\P4-E7 (Nodos)\bin\Debug\netcoreapp3.1\P4-E7.pdb
+D:\Facultad\.net\.coloquio\P4-E7 (Nodos)\obj\Debug\netcoreapp3.1\P4-E7.csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P4-E7 (Nodos)\obj\Debug\netcoreapp3.1\P4-E7.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P4-E7 (Nodos)\obj\Debug\netcoreapp3.1\P4-E7.AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P4-E7 (Nodos)\obj\Debug\netcoreapp3.1\P4-E7.AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P4-E7 (Nodos)\obj\Debug\netcoreapp3.1\P4-E7.dll
+D:\Facultad\.net\.coloquio\P4-E7 (Nodos)\obj\Debug\netcoreapp3.1\P4-E7.pdb
+D:\Facultad\.net\.coloquio\P4-E7 (Nodos)\obj\Debug\netcoreapp3.1\P4-E7.genruntimeconfig.cache

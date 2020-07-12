@@ -1,0 +1,13 @@
+D:\Facultad\.net\.coloquio\P9-E5 (Rehacer P4-E7)\bin\Debug\netcoreapp3.1\P9-E5.exe
+D:\Facultad\.net\.coloquio\P9-E5 (Rehacer P4-E7)\bin\Debug\netcoreapp3.1\P9-E5.deps.json
+D:\Facultad\.net\.coloquio\P9-E5 (Rehacer P4-E7)\bin\Debug\netcoreapp3.1\P9-E5.runtimeconfig.json
+D:\Facultad\.net\.coloquio\P9-E5 (Rehacer P4-E7)\bin\Debug\netcoreapp3.1\P9-E5.runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P9-E5 (Rehacer P4-E7)\bin\Debug\netcoreapp3.1\P9-E5.dll
+D:\Facultad\.net\.coloquio\P9-E5 (Rehacer P4-E7)\bin\Debug\netcoreapp3.1\P9-E5.pdb
+D:\Facultad\.net\.coloquio\P9-E5 (Rehacer P4-E7)\obj\Debug\netcoreapp3.1\P9-E5.csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P9-E5 (Rehacer P4-E7)\obj\Debug\netcoreapp3.1\P9-E5.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P9-E5 (Rehacer P4-E7)\obj\Debug\netcoreapp3.1\P9-E5.AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P9-E5 (Rehacer P4-E7)\obj\Debug\netcoreapp3.1\P9-E5.AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P9-E5 (Rehacer P4-E7)\obj\Debug\netcoreapp3.1\P9-E5.dll
+D:\Facultad\.net\.coloquio\P9-E5 (Rehacer P4-E7)\obj\Debug\netcoreapp3.1\P9-E5.pdb
+D:\Facultad\.net\.coloquio\P9-E5 (Rehacer P4-E7)\obj\Debug\netcoreapp3.1\P9-E5.genruntimeconfig.cache

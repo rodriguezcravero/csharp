@@ -1,0 +1,26 @@
+D:\Facultad\.net\.coloquio\P6-E8\bin\Debug\netcoreapp3.1\P6-E8.exe
+D:\Facultad\.net\.coloquio\P6-E8\bin\Debug\netcoreapp3.1\P6-E8.deps.json
+D:\Facultad\.net\.coloquio\P6-E8\bin\Debug\netcoreapp3.1\P6-E8.runtimeconfig.json
+D:\Facultad\.net\.coloquio\P6-E8\bin\Debug\netcoreapp3.1\P6-E8.runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P6-E8\bin\Debug\netcoreapp3.1\P6-E8.dll
+D:\Facultad\.net\.coloquio\P6-E8\bin\Debug\netcoreapp3.1\P6-E8.pdb
+D:\Facultad\.net\.coloquio\P6-E8\obj\Debug\netcoreapp3.1\P6-E8.csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P6-E8\obj\Debug\netcoreapp3.1\P6-E8.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P6-E8\obj\Debug\netcoreapp3.1\P6-E8.AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P6-E8\obj\Debug\netcoreapp3.1\P6-E8.AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P6-E8\obj\Debug\netcoreapp3.1\P6-E8.dll
+D:\Facultad\.net\.coloquio\P6-E8\obj\Debug\netcoreapp3.1\P6-E8.pdb
+D:\Facultad\.net\.coloquio\P6-E8\obj\Debug\netcoreapp3.1\P6-E8.genruntimeconfig.cache
+D:\Facultad\.net\.coloquio\P6-E8 (Empleado)\bin\Debug\netcoreapp3.1\P6-E8.exe
+D:\Facultad\.net\.coloquio\P6-E8 (Empleado)\bin\Debug\netcoreapp3.1\P6-E8.deps.json
+D:\Facultad\.net\.coloquio\P6-E8 (Empleado)\bin\Debug\netcoreapp3.1\P6-E8.runtimeconfig.json
+D:\Facultad\.net\.coloquio\P6-E8 (Empleado)\bin\Debug\netcoreapp3.1\P6-E8.runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P6-E8 (Empleado)\bin\Debug\netcoreapp3.1\P6-E8.dll
+D:\Facultad\.net\.coloquio\P6-E8 (Empleado)\bin\Debug\netcoreapp3.1\P6-E8.pdb
+D:\Facultad\.net\.coloquio\P6-E8 (Empleado)\obj\Debug\netcoreapp3.1\P6-E8.csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P6-E8 (Empleado)\obj\Debug\netcoreapp3.1\P6-E8.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P6-E8 (Empleado)\obj\Debug\netcoreapp3.1\P6-E8.AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P6-E8 (Empleado)\obj\Debug\netcoreapp3.1\P6-E8.AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P6-E8 (Empleado)\obj\Debug\netcoreapp3.1\P6-E8.dll
+D:\Facultad\.net\.coloquio\P6-E8 (Empleado)\obj\Debug\netcoreapp3.1\P6-E8.pdb
+D:\Facultad\.net\.coloquio\P6-E8 (Empleado)\obj\Debug\netcoreapp3.1\P6-E8.genruntimeconfig.cache

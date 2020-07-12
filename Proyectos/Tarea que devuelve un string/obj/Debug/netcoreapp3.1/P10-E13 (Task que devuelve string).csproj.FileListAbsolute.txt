@@ -1,0 +1,13 @@
+D:\Facultad\.net\.coloquio\P10-E13 (Task que devuelve string)\bin\Debug\netcoreapp3.1\P10-E13 (Task que devuelve string).exe
+D:\Facultad\.net\.coloquio\P10-E13 (Task que devuelve string)\bin\Debug\netcoreapp3.1\P10-E13 (Task que devuelve string).deps.json
+D:\Facultad\.net\.coloquio\P10-E13 (Task que devuelve string)\bin\Debug\netcoreapp3.1\P10-E13 (Task que devuelve string).runtimeconfig.json
+D:\Facultad\.net\.coloquio\P10-E13 (Task que devuelve string)\bin\Debug\netcoreapp3.1\P10-E13 (Task que devuelve string).runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P10-E13 (Task que devuelve string)\bin\Debug\netcoreapp3.1\P10-E13 (Task que devuelve string).dll
+D:\Facultad\.net\.coloquio\P10-E13 (Task que devuelve string)\bin\Debug\netcoreapp3.1\P10-E13 (Task que devuelve string).pdb
+D:\Facultad\.net\.coloquio\P10-E13 (Task que devuelve string)\obj\Debug\netcoreapp3.1\P10-E13 (Task que devuelve string).csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P10-E13 (Task que devuelve string)\obj\Debug\netcoreapp3.1\P10-E13 (Task que devuelve string).csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P10-E13 (Task que devuelve string)\obj\Debug\netcoreapp3.1\P10-E13 (Task que devuelve string).AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P10-E13 (Task que devuelve string)\obj\Debug\netcoreapp3.1\P10-E13 (Task que devuelve string).AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P10-E13 (Task que devuelve string)\obj\Debug\netcoreapp3.1\P10-E13 (Task que devuelve string).dll
+D:\Facultad\.net\.coloquio\P10-E13 (Task que devuelve string)\obj\Debug\netcoreapp3.1\P10-E13 (Task que devuelve string).pdb
+D:\Facultad\.net\.coloquio\P10-E13 (Task que devuelve string)\obj\Debug\netcoreapp3.1\P10-E13 (Task que devuelve string).genruntimeconfig.cache

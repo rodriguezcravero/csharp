@@ -1,0 +1,13 @@
+D:\Facultad\.net\.coloquio\P10-E9 (Sumatoria con Task y TaskFactory)\bin\Debug\netcoreapp3.1\P10-E9 (Sumatoria con Task y TaskFactory).exe
+D:\Facultad\.net\.coloquio\P10-E9 (Sumatoria con Task y TaskFactory)\bin\Debug\netcoreapp3.1\P10-E9 (Sumatoria con Task y TaskFactory).deps.json
+D:\Facultad\.net\.coloquio\P10-E9 (Sumatoria con Task y TaskFactory)\bin\Debug\netcoreapp3.1\P10-E9 (Sumatoria con Task y TaskFactory).runtimeconfig.json
+D:\Facultad\.net\.coloquio\P10-E9 (Sumatoria con Task y TaskFactory)\bin\Debug\netcoreapp3.1\P10-E9 (Sumatoria con Task y TaskFactory).runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P10-E9 (Sumatoria con Task y TaskFactory)\bin\Debug\netcoreapp3.1\P10-E9 (Sumatoria con Task y TaskFactory).dll
+D:\Facultad\.net\.coloquio\P10-E9 (Sumatoria con Task y TaskFactory)\bin\Debug\netcoreapp3.1\P10-E9 (Sumatoria con Task y TaskFactory).pdb
+D:\Facultad\.net\.coloquio\P10-E9 (Sumatoria con Task y TaskFactory)\obj\Debug\netcoreapp3.1\P10-E9 (Sumatoria con Task y TaskFactory).csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P10-E9 (Sumatoria con Task y TaskFactory)\obj\Debug\netcoreapp3.1\P10-E9 (Sumatoria con Task y TaskFactory).csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P10-E9 (Sumatoria con Task y TaskFactory)\obj\Debug\netcoreapp3.1\P10-E9 (Sumatoria con Task y TaskFactory).AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P10-E9 (Sumatoria con Task y TaskFactory)\obj\Debug\netcoreapp3.1\P10-E9 (Sumatoria con Task y TaskFactory).AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P10-E9 (Sumatoria con Task y TaskFactory)\obj\Debug\netcoreapp3.1\P10-E9 (Sumatoria con Task y TaskFactory).dll
+D:\Facultad\.net\.coloquio\P10-E9 (Sumatoria con Task y TaskFactory)\obj\Debug\netcoreapp3.1\P10-E9 (Sumatoria con Task y TaskFactory).pdb
+D:\Facultad\.net\.coloquio\P10-E9 (Sumatoria con Task y TaskFactory)\obj\Debug\netcoreapp3.1\P10-E9 (Sumatoria con Task y TaskFactory).genruntimeconfig.cache

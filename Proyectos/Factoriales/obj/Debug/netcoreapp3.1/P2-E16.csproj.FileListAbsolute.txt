@@ -1,0 +1,13 @@
+D:\Facultad\.net\.coloquio\P2-E16\bin\Debug\netcoreapp3.1\P2-E16.exe
+D:\Facultad\.net\.coloquio\P2-E16\bin\Debug\netcoreapp3.1\P2-E16.deps.json
+D:\Facultad\.net\.coloquio\P2-E16\bin\Debug\netcoreapp3.1\P2-E16.runtimeconfig.json
+D:\Facultad\.net\.coloquio\P2-E16\bin\Debug\netcoreapp3.1\P2-E16.runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P2-E16\bin\Debug\netcoreapp3.1\P2-E16.dll
+D:\Facultad\.net\.coloquio\P2-E16\bin\Debug\netcoreapp3.1\P2-E16.pdb
+D:\Facultad\.net\.coloquio\P2-E16\obj\Debug\netcoreapp3.1\P2-E16.csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P2-E16\obj\Debug\netcoreapp3.1\P2-E16.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P2-E16\obj\Debug\netcoreapp3.1\P2-E16.AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P2-E16\obj\Debug\netcoreapp3.1\P2-E16.AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P2-E16\obj\Debug\netcoreapp3.1\P2-E16.dll
+D:\Facultad\.net\.coloquio\P2-E16\obj\Debug\netcoreapp3.1\P2-E16.pdb
+D:\Facultad\.net\.coloquio\P2-E16\obj\Debug\netcoreapp3.1\P2-E16.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+D:\Facultad\.net\.coloquio\P2-E14\bin\Debug\netcoreapp3.1\P2-E14.exe
+D:\Facultad\.net\.coloquio\P2-E14\bin\Debug\netcoreapp3.1\P2-E14.deps.json
+D:\Facultad\.net\.coloquio\P2-E14\bin\Debug\netcoreapp3.1\P2-E14.runtimeconfig.json
+D:\Facultad\.net\.coloquio\P2-E14\bin\Debug\netcoreapp3.1\P2-E14.runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P2-E14\bin\Debug\netcoreapp3.1\P2-E14.dll
+D:\Facultad\.net\.coloquio\P2-E14\bin\Debug\netcoreapp3.1\P2-E14.pdb
+D:\Facultad\.net\.coloquio\P2-E14\obj\Debug\netcoreapp3.1\P2-E14.csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P2-E14\obj\Debug\netcoreapp3.1\P2-E14.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P2-E14\obj\Debug\netcoreapp3.1\P2-E14.AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P2-E14\obj\Debug\netcoreapp3.1\P2-E14.AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P2-E14\obj\Debug\netcoreapp3.1\P2-E14.dll
+D:\Facultad\.net\.coloquio\P2-E14\obj\Debug\netcoreapp3.1\P2-E14.pdb
+D:\Facultad\.net\.coloquio\P2-E14\obj\Debug\netcoreapp3.1\P2-E14.genruntimeconfig.cache
+D:\Facultad\.net\.coloquio\P2-E14 (esPrimo)\bin\Debug\netcoreapp3.1\P2-E14.exe
+D:\Facultad\.net\.coloquio\P2-E14 (esPrimo)\bin\Debug\netcoreapp3.1\P2-E14.deps.json
+D:\Facultad\.net\.coloquio\P2-E14 (esPrimo)\bin\Debug\netcoreapp3.1\P2-E14.runtimeconfig.json
+D:\Facultad\.net\.coloquio\P2-E14 (esPrimo)\bin\Debug\netcoreapp3.1\P2-E14.runtimeconfig.dev.json
+D:\Facultad\.net\.coloquio\P2-E14 (esPrimo)\bin\Debug\netcoreapp3.1\P2-E14.dll
+D:\Facultad\.net\.coloquio\P2-E14 (esPrimo)\bin\Debug\netcoreapp3.1\P2-E14.pdb
+D:\Facultad\.net\.coloquio\P2-E14 (esPrimo)\obj\Debug\netcoreapp3.1\P2-E14.csprojAssemblyReference.cache
+D:\Facultad\.net\.coloquio\P2-E14 (esPrimo)\obj\Debug\netcoreapp3.1\P2-E14.csproj.CoreCompileInputs.cache
+D:\Facultad\.net\.coloquio\P2-E14 (esPrimo)\obj\Debug\netcoreapp3.1\P2-E14.AssemblyInfoInputs.cache
+D:\Facultad\.net\.coloquio\P2-E14 (esPrimo)\obj\Debug\netcoreapp3.1\P2-E14.AssemblyInfo.cs
+D:\Facultad\.net\.coloquio\P2-E14 (esPrimo)\obj\Debug\netcoreapp3.1\P2-E14.dll
+D:\Facultad\.net\.coloquio\P2-E14 (esPrimo)\obj\Debug\netcoreapp3.1\P2-E14.pdb
+D:\Facultad\.net\.coloquio\P2-E14 (esPrimo)\obj\Debug\netcoreapp3.1\P2-E14.genruntimeconfig.cache
