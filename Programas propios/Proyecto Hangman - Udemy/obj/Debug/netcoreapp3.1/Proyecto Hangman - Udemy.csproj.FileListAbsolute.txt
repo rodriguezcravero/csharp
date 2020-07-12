@@ -1,0 +1,13 @@
+D:\csharp\Proyecto Hangman - Udemy\bin\Debug\netcoreapp3.1\Proyecto Hangman - Udemy.exe
+D:\csharp\Proyecto Hangman - Udemy\bin\Debug\netcoreapp3.1\Proyecto Hangman - Udemy.deps.json
+D:\csharp\Proyecto Hangman - Udemy\bin\Debug\netcoreapp3.1\Proyecto Hangman - Udemy.runtimeconfig.json
+D:\csharp\Proyecto Hangman - Udemy\bin\Debug\netcoreapp3.1\Proyecto Hangman - Udemy.runtimeconfig.dev.json
+D:\csharp\Proyecto Hangman - Udemy\bin\Debug\netcoreapp3.1\Proyecto Hangman - Udemy.dll
+D:\csharp\Proyecto Hangman - Udemy\bin\Debug\netcoreapp3.1\Proyecto Hangman - Udemy.pdb
+D:\csharp\Proyecto Hangman - Udemy\obj\Debug\netcoreapp3.1\Proyecto Hangman - Udemy.csprojAssemblyReference.cache
+D:\csharp\Proyecto Hangman - Udemy\obj\Debug\netcoreapp3.1\Proyecto Hangman - Udemy.csproj.CoreCompileInputs.cache
+D:\csharp\Proyecto Hangman - Udemy\obj\Debug\netcoreapp3.1\Proyecto Hangman - Udemy.AssemblyInfoInputs.cache
+D:\csharp\Proyecto Hangman - Udemy\obj\Debug\netcoreapp3.1\Proyecto Hangman - Udemy.AssemblyInfo.cs
+D:\csharp\Proyecto Hangman - Udemy\obj\Debug\netcoreapp3.1\Proyecto Hangman - Udemy.dll
+D:\csharp\Proyecto Hangman - Udemy\obj\Debug\netcoreapp3.1\Proyecto Hangman - Udemy.pdb
+D:\csharp\Proyecto Hangman - Udemy\obj\Debug\netcoreapp3.1\Proyecto Hangman - Udemy.genruntimeconfig.cache
